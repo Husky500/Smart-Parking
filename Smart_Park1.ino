@@ -1,4 +1,4 @@
-// C++ code
+// Arduino kod za Smart Parking
 //
 unsigned const int A = 13;
 unsigned const int B = 12;
